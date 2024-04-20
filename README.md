@@ -51,5 +51,5 @@ This project was created as a part of internship. It showcases the use of modern
 
 ## Author
 
-Laxmi A
+A.Laxmi Priya
 
