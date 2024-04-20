@@ -10,7 +10,7 @@ Amrutam Pharmaceuticals is a project aimed at creating a modern and responsive w
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/amrutam-pharmaceuticals.git
+   git clone https://github.com/laxmiA143/Amrutam-Pharmaceuticals-.git
    ```
    
 2. **Navigate to the project directory:**
@@ -51,5 +51,5 @@ This project was created as a part of internship. It showcases the use of modern
 
 ## Author
 
-[Laxmi A]
+Laxmi A
 
